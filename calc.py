@@ -23,7 +23,7 @@ equals = 0
 if kind_of_calculation == '1':
     equals = num1 + num2
 elif kind_of_calculation == '2':
-    equals = num1 - num2
+    equals = f"This is awesome! {num1 - num2}"
 elif kind_of_calculation == '3':
     equals = num1 * num2
 elif kind_of_calculation == '4':
